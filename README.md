@@ -7,9 +7,9 @@
 <p> Para a realização do projeto o tema escolhido foi: <b>CINEMA</b>. o Projeto possui quatro (04) rotas, onde cada uma possui cinco (04) ou mais dados pré-preenchidos (mockados). <br><br><b>AS ROTAS:</b>
 <ul>
 <li><b>filmes</b> -- mostra os filmes em cartaz no cinema.</li>
-<li><b>ingressos</b> -- informações sobre os filmes em cartaz.</li>
-<li><b>pipocas</b> -- informações sobre o preço para assistir os filmes. </li>
-<li><b>bebidas</b> -- informações sobre em quais cinemas os filmes estarão disponíveis.</li>
+<li><b>ingressos</b> -- informações sobre os ingressos.</li>
+<li><b>pipocas</b> -- informações sobre pipocas disponíveis. </li>
+<li><b>bebidas</b> -- informações sobre bebidas disponíveis.</li>
 </ul>
 <h1>:writing_hand: TECNOLOGIAS USADAS:</h1>
 <ul>
