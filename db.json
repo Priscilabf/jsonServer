@@ -1,0 +1,103 @@
+{
+    "filmes": [
+      {
+        "id": 1,
+        "título": "PANTERA NEGRA: WAKANDA PARA SEMPRE",
+        "ano": 2022,
+        "roteiro": "Stan Lee, Ryan Coogler",
+        "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/22/10/21/20/01/5778952.jpg"
+      },
+      {
+        "título": "SORRIA",
+        "ano": 2022,
+        "roteiro": "Parker Finn",
+        "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/22/09/20/15/51/1507365.jpg",
+        "id": 2
+      },
+      {
+        "título": "A MULHER REI",
+        "ano": 2022,
+        "roteiro": "Maria Bello, Dana Stevens",
+        "imagem": "https://br.web.img3.acsta.net/c_310_420/pictures/22/09/19/20/28/5720375.jpg",
+        "id": 3
+      },
+      {
+        "título": "MINIONS 2: A ORIGEM DE GRU",
+        "ano": 2022,
+        "roteiro": "Cinco Paul, Brian Lynch",
+        "imagem": "https://br.web.img2.acsta.net/c_310_420/pictures/20/02/03/15/22/4954456.jpg",
+        "id": 4
+      }
+    ],
+    "ingressos": [
+      {
+        "sala": 1,
+        "valorMeia": "R$20",
+        "valorInteira": "R$40",
+        "id": 1
+      },
+      {
+        "sala": 2,
+        "valorMeia": "R$22",
+        "valorInteira": "R$44",
+        "id": 2
+      },
+      {
+        "sala": 3,
+        "valorMeia": "R$25",
+        "valorInteira": "R$50",
+        "id": 3
+      },
+      {
+        "sala": 4,
+        "valorMeia": "R$26",
+        "valorInteira": "R$52",
+        "id": 4
+      }
+    ],
+    "pipocas": [
+      {
+          "id": 1,
+          "nome": "Pipoca pequena salgada",
+          "preco": 10.00
+      },
+      {
+          "id": 2,
+          "nome": "Pipoca média salgada",
+          "preco": 14.50
+      },
+      {
+          "id": 3,
+          "nome": "Pipoca grande salgada",
+          "preco": 20.00
+      },
+      {
+          "id": 4,
+          "nome": "Pipoca grande doce",
+          "preco": 23.00
+      }
+    ],
+
+    "Bebidas": [
+        {
+            "id": 1,
+            "nome": "Água",
+            "preco": 5.00
+        },
+        {
+            "id": 2,
+            "nome": "Suco",
+            "preco": 7.00
+        },
+        {
+            "id": 3,
+            "nome": "Cerveja",
+            "preco": 9.00
+        },
+        {
+            "id": 4,
+            "nome": "Coca-Cola",
+            "preco": 13.00
+        }
+    ]
+  }
